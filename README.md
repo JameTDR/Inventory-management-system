@@ -27,7 +27,7 @@ Inventory Management System with Laravel 10 and MySql.
 1.  **Clone Repository or Download**
 
     ```bash
-    $ git clone https://github.com/JameTDR/inventory-management-system
+    $ git clone https://github.com/JameTDR/Inventory-management-system.git
     ```
 1. **Setup**
     ```bash
@@ -78,7 +78,7 @@ Inventory Management System with Laravel 10 and MySql.
     ```
 1. **Login**
 
-    Try login with username: `admin` and password: `password`
+    Create New Users 
 
 ## 🚀 Config
 1. **Config Chart**
